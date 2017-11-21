@@ -46,12 +46,12 @@
 ```yaml
 repos:
 - original: https://golang.org/x/crypto
-  repo: https://git.hxsf.work/gomirrors/crypto
+  repo: https://github.com/golang/crypto
 - original: https://golang.org/x/crypto/acme/autocert
-  repo: https://git.hxsf.work/gomirrors/crypto
+  repo: https://github.com/golang/crypto
   base: golang.org/x/crypto
 - original: https://golang.org/x/sys/unix
-  repo: https://git.hxsf.work/gomirrors/sys
+  repo: https://github.com/golang/sys
   base: golang.org/x/sys
 ```
 
